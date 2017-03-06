@@ -6,7 +6,7 @@ function largestOfFour(arr) {
   var bigger2 =0;
   var bigger3 =0;
   var bigger4 =0;
-  var arrBigger = [0, 0, 0 ,0];
+  var arrBigger = [];
    
     for(var j=0;j<4;j++){
       
